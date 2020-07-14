@@ -1,2 +1,3 @@
+include ':Utilities'
 include ':app'
 rootProject.name = "Utility for android java"

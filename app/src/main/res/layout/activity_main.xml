@@ -13,5 +13,11 @@
         android:layout_height="wrap_content"
         android:text="Custom Toast" />
 
+    <Button
+        android:id="@+id/btn_custom_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom Spinner" />
+
 
 </LinearLayout>

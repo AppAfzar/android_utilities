@@ -19,7 +19,7 @@ public class CustomToastActivity extends BaseActivity {
         findViewById(R.id.btnToast).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                toastMessage("It is a custom toast");
+                toastMessage("It is a custom_spinner_item toast");
             }
         });
 
